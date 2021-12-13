@@ -1,0 +1,50 @@
+com/example/android/navigation/BR.java
+ com.example.android.navigation.BR
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/android/navigation/DataBindingTriggerClass.java
+ com.example.android.navigation.DataBindingTriggerClass
+com/example/android/navigation/GameWonFragmentArgs.java
+ com.example.android.navigation.GameWonFragmentArgs
+ com.example.android.navigation.GameWonFragmentArgs$1
+ com.example.android.navigation.GameWonFragmentArgs$Builder
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/android/navigation/BuildConfig.java
+ com.example.android.navigation.BuildConfig
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/android/navigation/DataBinderMapperImpl.java
+ com.example.android.navigation.DataBinderMapperImpl
+ com.example.android.navigation.DataBinderMapperImpl$InnerBrLookup
+ com.example.android.navigation.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/android/navigation/databinding/ActivityMainBinding.java
+ com.example.android.navigation.databinding.ActivityMainBinding
+com/example/android/navigation/databinding/FragmentTitleBindingImpl.java
+ com.example.android.navigation.databinding.FragmentTitleBindingImpl
+com/example/android/navigation/databinding/ActivityMainBindingImpl.java
+ com.example.android.navigation.databinding.ActivityMainBindingImpl
+com/example/android/navigation/TitleFragmentDirections.java
+ com.example.android.navigation.TitleFragmentDirections
+com/example/android/navigation/databinding/FragmentGameOverBindingImpl.java
+ com.example.android.navigation.databinding.FragmentGameOverBindingImpl
+com/example/android/navigation/databinding/FragmentGameOverBinding.java
+ com.example.android.navigation.databinding.FragmentGameOverBinding
+com/example/android/navigation/databinding/FragmentTitleBinding.java
+ com.example.android.navigation.databinding.FragmentTitleBinding
+com/example/android/navigation/GameWonFragmentDirections.java
+ com.example.android.navigation.GameWonFragmentDirections
+com/example/android/navigation/databinding/FragmentGameBinding.java
+ com.example.android.navigation.databinding.FragmentGameBinding
+com/example/android/navigation/databinding/FragmentGameWonBindingImpl.java
+ com.example.android.navigation.databinding.FragmentGameWonBindingImpl
+com/example/android/navigation/GameOverFragmentDirections.java
+ com.example.android.navigation.GameOverFragmentDirections
+com/example/android/navigation/databinding/FragmentGameWonBinding.java
+ com.example.android.navigation.databinding.FragmentGameWonBinding
+com/example/android/navigation/databinding/FragmentGameBindingImpl.java
+ com.example.android.navigation.databinding.FragmentGameBindingImpl
+com/example/android/navigation/GameFragmentDirections.java
+ com.example.android.navigation.GameFragmentDirections
+ com.example.android.navigation.GameFragmentDirections$1
+ com.example.android.navigation.GameFragmentDirections$ActionGameFragmentToGameWonFragment

@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/drawable_settings.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/settings.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/layout_fragment_game.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_game.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/anim_slide_out_right.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/drawable_try_again.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/try_again.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/anim_slide_in_right.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/layout_fragment_rules.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_rules.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/navigation_navigation.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/navigation/navigation.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/drawable_android_category_simple.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/android_category_simple.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/drawable_nav_header.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/nav_header.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/drawable_about_android_trivia.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/about_android_trivia.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/anim_fade_in.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/anim/fade_in.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/drawable_android.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/android.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/anim_slide_out_left.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/drawable_rules.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/rules.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/anim_slide_in_left.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/layout_fragment_game_over.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_game_over.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/drawable_you_win.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/you_win.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/drawable_trivia_rules.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/trivia_rules.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/menu_winner_menu.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/menu/winner_menu.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/layout_fragment_title.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_title.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/drawable_share.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/share.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/layout_fragment_game_won.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_game_won.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/menu_overflow_menu.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/menu/overflow_menu.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/drawable_android_trivia.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/drawable/android_trivia.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/menu_navdrawer_menu.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/menu/navdrawer_menu.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/anim_fade_out.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/anim/fade_out.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/layout_nav_header.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/nav_header.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/layout_fragment_about.xml.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_about.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    }
+]

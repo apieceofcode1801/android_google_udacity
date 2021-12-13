@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:18:1-38:12
+INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:18:1-38:12
+INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:18:1-38:12
+INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:18:1-38:12
+MERGED from [androidx.databinding:databinding-adapters:4.2.1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/dde9187c855c85c8a6c8af6490e9ec30/databinding-adapters-4.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:4.2.1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/3c936b063924576ff72dd4ac969689da/databinding-runtime-4.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/7b19e16603ab6f95b9986054cb5c1c9c/constraintlayout-2.0.0-rc1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/2f6aadf158c5c4d209e4fd359d58dd2b/navigation-ui-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/d09e1122a9844bf0a07c9445dd12dd72/navigation-ui-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/96279a115bd114ead953fbeef3390b0e/material-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/3773ed993a1c2a5dcdb763c09e93e7bb/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/e7434ac24b7deda798259517a4ce5e24/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/2b1b18e7dbc3da5e29a745e08fb708eb/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/5db0eac17b2a935bac0238549b1d5f6f/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/61b03ccd74ecb150aa7d9ff8887444c0/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/8c0b3788582fec6834441ead406ddb77/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/0bddf895e869be87e3fc56a037ac3021/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/b1634c5d2325341722767c7005d94f20/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/017f12233ea529e1e99d1f7d948998eb/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/029132d226191884d7dff974f4cc023b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/8dd38c9d0542c161e7dd64b3236bb944/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/dcc7dcedf312bb474c26bbf2dd368839/navigation-fragment-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/3d8e4f30f71d1be2749b1b11f3a1987c/navigation-fragment-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/b7b5413e75c6b57d438c5a8947dd05eb/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/2c799d9e9c67c7b9b47dea770b287a0f/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/9dc78fc9e7711e265efabc544a368012/navigation-runtime-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/6d747ec5ebd5554389881a4b21be4866/navigation-common-ktx-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/138d07ccb24a18774fc3446f790929e8/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/8a3de7efed855db994ca1548f2e53f72/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/a25cfe80ef0c5029f525d32a6137845b/drawerlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/9bd581b2ef516492d77afd472b1afbf7/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/5d3b8e378a195a2709efc6c00c0905e8/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/c3cd6ddc2637c93232368d71d2c031e6/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/4198b392aba0cb3b9b88bce0eef1c172/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/2a0d62d9c8e3d5a198dfde143863eea3/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/187fead8990c4176906d573af83faa74/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/13fd0b681d67fef02ca309e9b4db5100/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/d7106b97c9f3a94ce41b132b73e81136/navigation-runtime-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/8c9a31c74be08299981fb6e880385929/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/cfca66cbc210c5c8a48594eda64788a7/navigation-common-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/43ee7336c3fb63853138f5e76e1ae2b2/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.databinding:viewbinding:4.2.1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/ef3ebcba07e0d4d7b093e31e9db915e0/jetified-viewbinding-4.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/aea4e5052c43cc5fc2885b1706b15672/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/53d8e365d20dd23156643239443b8904/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/1f5b8d61e22a84215f98fe16fe46893b/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/24065538e04b9372720484755a857ef9/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/57153afeda703fe3d908cf8e39161f77/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/83304f27a00eee0fb2d4c187c80be5c5/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/d767325ccc1364cc5fdf407535a700e1/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/914b232d95438c104c511d7aa02dd7af/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/906f541f78e470d5c1a338fd9bb3846b/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/bc0cb0ca04c74f7b83264f83c5433810/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/a48e7d2e724732258e272c0c3dbdc29e/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/4fb89e99b94a5349184542038293016d/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/3d9cdd892697ac0220e387452e990ce8/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/1b665b7302901b6f1a6c776a0affcaa2/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/f8eae1d1500ad521620bd598ae111312/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/91fca80da6772adc4f335e59f3fd433a/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/d95c2f323689a1772159f5dd2695ee92/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/58f96e0ee844cd0b47537697ebb614e9/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:18:1-38:12
+INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:18:1-38:12
+INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:18:1-38:12
+	package
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:19:5-45
+		INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:18:1-38:12
+		INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:18:1-38:12
+		INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:21:5-36:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/7b19e16603ab6f95b9986054cb5c1c9c/constraintlayout-2.0.0-rc1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/7b19e16603ab6f95b9986054cb5c1c9c/constraintlayout-2.0.0-rc1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/96279a115bd114ead953fbeef3390b0e/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/96279a115bd114ead953fbeef3390b0e/material-1.2.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/43ee7336c3fb63853138f5e76e1ae2b2/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/43ee7336c3fb63853138f5e76e1ae2b2/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/1f5b8d61e22a84215f98fe16fe46893b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/1f5b8d61e22a84215f98fe16fe46893b/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/43ee7336c3fb63853138f5e76e1ae2b2/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.navigation.MainActivity
+ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:28:9-35:20
+	android:configChanges
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:30:13-91
+	android:name
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.2.1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/dde9187c855c85c8a6c8af6490e9ec30/databinding-adapters-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.2.1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/dde9187c855c85c8a6c8af6490e9ec30/databinding-adapters-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/3c936b063924576ff72dd4ac969689da/databinding-runtime-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.2.1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/3c936b063924576ff72dd4ac969689da/databinding-runtime-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/7b19e16603ab6f95b9986054cb5c1c9c/constraintlayout-2.0.0-rc1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-rc1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/7b19e16603ab6f95b9986054cb5c1c9c/constraintlayout-2.0.0-rc1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/2f6aadf158c5c4d209e4fd359d58dd2b/navigation-ui-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/2f6aadf158c5c4d209e4fd359d58dd2b/navigation-ui-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/d09e1122a9844bf0a07c9445dd12dd72/navigation-ui-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/d09e1122a9844bf0a07c9445dd12dd72/navigation-ui-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/96279a115bd114ead953fbeef3390b0e/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/96279a115bd114ead953fbeef3390b0e/material-1.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/3773ed993a1c2a5dcdb763c09e93e7bb/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/3773ed993a1c2a5dcdb763c09e93e7bb/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/e7434ac24b7deda798259517a4ce5e24/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/e7434ac24b7deda798259517a4ce5e24/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/2b1b18e7dbc3da5e29a745e08fb708eb/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/2b1b18e7dbc3da5e29a745e08fb708eb/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/5db0eac17b2a935bac0238549b1d5f6f/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/5db0eac17b2a935bac0238549b1d5f6f/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/61b03ccd74ecb150aa7d9ff8887444c0/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/61b03ccd74ecb150aa7d9ff8887444c0/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/8c0b3788582fec6834441ead406ddb77/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/8c0b3788582fec6834441ead406ddb77/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/0bddf895e869be87e3fc56a037ac3021/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/0bddf895e869be87e3fc56a037ac3021/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/b1634c5d2325341722767c7005d94f20/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/b1634c5d2325341722767c7005d94f20/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/017f12233ea529e1e99d1f7d948998eb/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/017f12233ea529e1e99d1f7d948998eb/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/029132d226191884d7dff974f4cc023b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/029132d226191884d7dff974f4cc023b/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/8dd38c9d0542c161e7dd64b3236bb944/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/8dd38c9d0542c161e7dd64b3236bb944/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/dcc7dcedf312bb474c26bbf2dd368839/navigation-fragment-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/dcc7dcedf312bb474c26bbf2dd368839/navigation-fragment-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/3d8e4f30f71d1be2749b1b11f3a1987c/navigation-fragment-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/3d8e4f30f71d1be2749b1b11f3a1987c/navigation-fragment-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/b7b5413e75c6b57d438c5a8947dd05eb/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.4] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/b7b5413e75c6b57d438c5a8947dd05eb/jetified-fragment-ktx-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/2c799d9e9c67c7b9b47dea770b287a0f/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/2c799d9e9c67c7b9b47dea770b287a0f/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/9dc78fc9e7711e265efabc544a368012/navigation-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/9dc78fc9e7711e265efabc544a368012/navigation-runtime-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/6d747ec5ebd5554389881a4b21be4866/navigation-common-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/6d747ec5ebd5554389881a4b21be4866/navigation-common-ktx-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/138d07ccb24a18774fc3446f790929e8/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/138d07ccb24a18774fc3446f790929e8/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/8a3de7efed855db994ca1548f2e53f72/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/8a3de7efed855db994ca1548f2e53f72/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/a25cfe80ef0c5029f525d32a6137845b/drawerlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/a25cfe80ef0c5029f525d32a6137845b/drawerlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/9bd581b2ef516492d77afd472b1afbf7/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/9bd581b2ef516492d77afd472b1afbf7/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/5d3b8e378a195a2709efc6c00c0905e8/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/5d3b8e378a195a2709efc6c00c0905e8/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/c3cd6ddc2637c93232368d71d2c031e6/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/c3cd6ddc2637c93232368d71d2c031e6/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/4198b392aba0cb3b9b88bce0eef1c172/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/4198b392aba0cb3b9b88bce0eef1c172/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/2a0d62d9c8e3d5a198dfde143863eea3/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/2a0d62d9c8e3d5a198dfde143863eea3/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/187fead8990c4176906d573af83faa74/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/187fead8990c4176906d573af83faa74/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/13fd0b681d67fef02ca309e9b4db5100/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/13fd0b681d67fef02ca309e9b4db5100/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/d7106b97c9f3a94ce41b132b73e81136/navigation-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/d7106b97c9f3a94ce41b132b73e81136/navigation-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/8c9a31c74be08299981fb6e880385929/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/8c9a31c74be08299981fb6e880385929/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/cfca66cbc210c5c8a48594eda64788a7/navigation-common-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/cfca66cbc210c5c8a48594eda64788a7/navigation-common-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/43ee7336c3fb63853138f5e76e1ae2b2/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/43ee7336c3fb63853138f5e76e1ae2b2/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:4.2.1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/ef3ebcba07e0d4d7b093e31e9db915e0/jetified-viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.1] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/ef3ebcba07e0d4d7b093e31e9db915e0/jetified-viewbinding-4.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/aea4e5052c43cc5fc2885b1706b15672/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/aea4e5052c43cc5fc2885b1706b15672/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/53d8e365d20dd23156643239443b8904/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/53d8e365d20dd23156643239443b8904/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/1f5b8d61e22a84215f98fe16fe46893b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/1f5b8d61e22a84215f98fe16fe46893b/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/24065538e04b9372720484755a857ef9/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/24065538e04b9372720484755a857ef9/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/57153afeda703fe3d908cf8e39161f77/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/57153afeda703fe3d908cf8e39161f77/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/83304f27a00eee0fb2d4c187c80be5c5/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/83304f27a00eee0fb2d4c187c80be5c5/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/d767325ccc1364cc5fdf407535a700e1/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/d767325ccc1364cc5fdf407535a700e1/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/914b232d95438c104c511d7aa02dd7af/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/914b232d95438c104c511d7aa02dd7af/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/906f541f78e470d5c1a338fd9bb3846b/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/906f541f78e470d5c1a338fd9bb3846b/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/bc0cb0ca04c74f7b83264f83c5433810/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/bc0cb0ca04c74f7b83264f83c5433810/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/a48e7d2e724732258e272c0c3dbdc29e/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/a48e7d2e724732258e272c0c3dbdc29e/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/4fb89e99b94a5349184542038293016d/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/4fb89e99b94a5349184542038293016d/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/3d9cdd892697ac0220e387452e990ce8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/3d9cdd892697ac0220e387452e990ce8/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/1b665b7302901b6f1a6c776a0affcaa2/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/1b665b7302901b6f1a6c776a0affcaa2/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/f8eae1d1500ad521620bd598ae111312/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/f8eae1d1500ad521620bd598ae111312/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/91fca80da6772adc4f335e59f3fd433a/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/91fca80da6772adc4f335e59f3fd433a/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/d95c2f323689a1772159f5dd2695ee92/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/d95c2f323689a1772159f5dd2695ee92/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/58f96e0ee844cd0b47537697ebb614e9/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/trunghvbk/.gradle/caches/transforms-2/files-2.1/58f96e0ee844cd0b47537697ebb614e9/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml
+INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml
+		ADDED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/AndroidManifest.xml

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game_over.xml",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_game_over.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game.xml",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_game.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_title.xml",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_title.xml"
+    },
+    {
+        "merged": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game_won.xml",
+        "source": "/Users/trunghvbk/Code/tuts/Google android tuts/andfun-kotlin-android-trivia-starter-code/app/src/main/res/layout/fragment_game_won.xml"
+    }
+]
